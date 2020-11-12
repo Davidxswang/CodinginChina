@@ -54,6 +54,10 @@ When I ran the second command, I didn't succeed, so I change it to:
 sudo apt autoremove ibus
 ```
 
+## Reboot
+
+Reboot. Done!
+
 ## Reference
 
 - [Install Sogou Pinyin on Ubuntu 20.04](https://blog.csdn.net/Mr_FenKuan/article/details/107215026?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param)
