@@ -14,3 +14,4 @@ Due to the well-known reason, the coding style in China is different from that i
 2. [Faron's blog](https://www.cnblogs.com/printN/p/7382814.html)
 3. [Aliyun's mirror](https://developer.aliyun.com/mirror/pypi?spm=a2c6h.13651102.0.0.3e221b117iQ1ae)
 4. [Settings for Docker on Windows in China](https://blog.csdn.net/qq_35976271/article/details/91362620)
+5. [Docker Speedup in China](https://www.cnblogs.com/nhdlb/p/12567154.html)
