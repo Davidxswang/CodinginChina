@@ -11,6 +11,7 @@ Due to the well-known reason, the coding style in China is different from that i
 - [Sogou Pinyin](Sogoupinyin.md)
 - [VSCode](VSCode.md)
 - [Nodejs](Nodejs.md)
+- [Conda](Conda.md)
 
 ## Reference
 
@@ -23,3 +24,4 @@ Due to the well-known reason, the coding style in China is different from that i
 7. [Speedup the Download of VSCode in China](https://zhuanlan.zhihu.com/p/112215618)
 8. [How to configure npm, git and bower for Visual Studio behind a proxy](https://stackoverflow.com/questions/41038067/how-to-configure-npm-git-and-bower-for-visual-studio-behind-a-proxy#:~:text=In%20the%20Visual%20Studio%20developer%20command%20window%2C%20type,type%20this%20command%3A%20npm%20config%20set%20https-proxy%20http%3A%2F%2Fproxyuser%3Aproxypwd%40proxy.server.com%3A8080.)
 9. [How to clear https proxy setting of NPM?](https://stackoverflow.com/questions/21228995/how-to-clear-https-proxy-setting-of-npm#:~:text=By%20running%20npm%20config%20rm%20proxy%20you%20remove,clean-up%20proxies%20from%20both%20local%20and%20global%20configs%3A)
+10. [How to use Tsinghua Source and Why Installing PyTorch Fails](https://blog.csdn.net/CallMeQiuqiuqiu/article/details/106817612?utm_medium=distribute.pc_aggpage_search_result.none-task-blog-2~all~sobaiduend~default-1-106817612.nonecase&utm_term=pytorch%20%E5%8F%AF%E7%94%A8%E9%95%9C%E5%83%8F%E6%BA%90&spm=1000.2123.3001.4430)
