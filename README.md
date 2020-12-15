@@ -1,4 +1,5 @@
 # Coding in China
+
 Due to the well-known reason, the coding style in China is different from that in other parts of the world. The repo is for this transition, either from China to Non-China, or from Non-China to China.
 
 ## Table of Contents
@@ -9,6 +10,7 @@ Due to the well-known reason, the coding style in China is different from that i
 - [Docker](Docker.md)
 - [Sogou Pinyin](Sogoupinyin.md)
 - [VSCode](VSCode.md)
+- [Nodejs](Nodejs.md)
 
 ## Reference
 
@@ -19,3 +21,5 @@ Due to the well-known reason, the coding style in China is different from that i
 5. [Docker Speedup in China](https://www.cnblogs.com/nhdlb/p/12567154.html)
 6. [Install Sogou Pinyin on Ubuntu 20.04](https://blog.csdn.net/Mr_FenKuan/article/details/107215026?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param)
 7. [Speedup the Download of VSCode in China](https://zhuanlan.zhihu.com/p/112215618)
+8. [How to configure npm, git and bower for Visual Studio behind a proxy](https://stackoverflow.com/questions/41038067/how-to-configure-npm-git-and-bower-for-visual-studio-behind-a-proxy#:~:text=In%20the%20Visual%20Studio%20developer%20command%20window%2C%20type,type%20this%20command%3A%20npm%20config%20set%20https-proxy%20http%3A%2F%2Fproxyuser%3Aproxypwd%40proxy.server.com%3A8080.)
+9. [How to clear https proxy setting of NPM?](https://stackoverflow.com/questions/21228995/how-to-clear-https-proxy-setting-of-npm#:~:text=By%20running%20npm%20config%20rm%20proxy%20you%20remove,clean-up%20proxies%20from%20both%20local%20and%20global%20configs%3A)
