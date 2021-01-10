@@ -2,7 +2,7 @@
 
 We need to set the Conda sources to those in China, in order to install packages, e.g., PyTorch.
 
-## On Mac
+## On Mac/Linux
 
 ### Method 1
 
