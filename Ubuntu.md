@@ -16,8 +16,8 @@ To change the source of Ubuntu 20.04, we can change it manually or change the so
 
 > Note: this is not recommended.
 
-1. Make a backup of the source list file: `copy /etc/apt/sources.list /etc/apt/sources.list.backup`
-2. Open the source list file: `vim /etc/apt/sources.list`
+1. Make a backup of the source list file: `cp /etc/apt/sources.list /etc/apt/sources.list.backup`
+2. Open the source list file: `sudo vim /etc/apt/sources.list`
 3. Change the default address `http://archive.ubuntu.com` into `http://mirrors.aliyun.com`
 4. Update the cache: `sudo apt update`
 
