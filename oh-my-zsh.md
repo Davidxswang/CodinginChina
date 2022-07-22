@@ -30,9 +30,19 @@ export LANG=en_US.UTF-8
 export LC_ALL=en_US.UTF-8
 ```
 
+If this encoding issue happens on Mac, add this to `.zshrc`:
+
+```shell
+export LC_ALL=en_US.UTF-8
+export LANG=en_US.UTF-8
+```
+
+Then run `source .zshrc` will solve the problem.
+
 ## References
 
 - [Oh-My-Zsh](https://ohmyz.sh/)
 - [oh-my-zsh国内镜像安装](https://igmainc.github.io/2021/04/17/oh-my-zsh%E5%9B%BD%E5%86%85%E9%95%9C%E5%83%8F%E5%AE%89%E8%A3%85.html)
 - [Oh my zsh with autosuggestions & syntax-highlighting.md](https://gist.github.com/dogrocker/1efb8fd9427779c827058f873b94df95)
 - [Command duplicated on tab completion with oh-my-zsh and Hyper #300](https://github.com/sindresorhus/pure/issues/300)
+- [Mac终端使用oh-my-zsh中文乱码](https://blog.csdn.net/weixin_44649870/article/details/104423570)
