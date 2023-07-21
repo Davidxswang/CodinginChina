@@ -20,7 +20,7 @@ When using it, if some words are repeated when auto-completing the command, we m
 ```shell
 sudo apt-get install locales
 sudo dpkg-reconfigure locales
-locale-gen en_US.UTF-8 # might not be necessary
+# choose en_US.UTF-8
 ```
 
 In the `.zshrc`  file, set the variables:
@@ -28,13 +28,6 @@ In the `.zshrc`  file, set the variables:
 ```shell
 export LANG=en_US.UTF-8
 export LC_ALL=en_US.UTF-8
-```
-
-If this encoding issue happens on Mac, add this to `.zshrc`:
-
-```shell
-export LC_ALL=en_US.UTF-8
-export LANG=en_US.UTF-8
 ```
 
 Then run `source .zshrc` will solve the problem.
